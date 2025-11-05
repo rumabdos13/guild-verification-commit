@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-05T23:01:37.725Z
-Commit: Resolve null pointer exception in user service
+Timestamp: 2025-11-05T23:04:35.966Z
+Commit: Add multi-language support
